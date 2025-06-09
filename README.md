@@ -18,4 +18,3 @@ This project scrapes data about countries from [scrapethissite.com](https://www.
 - scikit-learn
 - NumPy
 
-## Sample Output
